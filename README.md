@@ -1,12 +1,4 @@
-Here's a README template for your **Billionaires Data Analysis Project**, highlighting the key aspects of the project to attract recruiters:
-
----
-
 # Billionaires Dataset Analysis
-
-**Course**: DATA 133  
-**Project Title**: Billionaires Dataset Analysis (CORGIS Dataset)  
-**Author**: Davine Mungai
 
 ## Overview
 
@@ -35,6 +27,7 @@ This project analyzes the **Billionaires Dataset** from CORGIS, focusing on the 
 
 - **Python**: Main programming language.
 - **Libraries**:
+  - `JupyterLab`: For interactive data exploration and visualization.
   - `Matplotlib`: For data visualization.
   - `PrettyTable`: For tabular data representation.
   - `NumPy`: For statistical calculations.
@@ -75,7 +68,3 @@ The project was supported by the following references:
 - [W3Schools: Matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp)
 - [GeeksforGeeks: PrettyTable in Python](https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/)
 - **ChatGPT**: Used to troubleshoot error messages and get explanations on using libraries.
-
----
-
-This README should give a solid overview of your project to potential recruiters! Let me know if you'd like to make any changes or add more details.
